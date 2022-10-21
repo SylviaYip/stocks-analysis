@@ -61,10 +61,10 @@ The following is the refactored code with instructional comments:
     Next i
   
 The initial code had a run time of 0.6171875 seconds. 
-[Initial code run time](./Resources/VBA_Challenge_2018_Initial_Code_Run_Time.png)
+![Initial code run time](./Resources/VBA_Challenge_2018_Initial_Code_Run_Time.png)
 
 On the other hand, the refactored code has a faster run time of 0.0859375 seconds.  
-[Refactored code run time](./Resources/VBA_Challenge_2018_Refactored_Code_Run_Time.png)
+![Refactored code run time](./Resources/VBA_Challenge_2018_Refactored_Code_Run_Time.png)
 
 
 ## Summary
